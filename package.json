@@ -1,0 +1,16 @@
+{
+  "name": "openviking",
+  "version": "1.0.0",
+  "description": ">",
+  "author": "OpenClaw Assistant",
+  "license": "MIT",
+  "created": "2026-02-23T11:43:09.626197",
+  "location": "/Users/huyixin/.openclaw/workspace/skills",
+  "files": [
+    "SKILL.md",
+    "references/setup-guide.md",
+    "references/python-api.md",
+    "scripts/viking.py"
+  ],
+  "file_count": 4
+}
